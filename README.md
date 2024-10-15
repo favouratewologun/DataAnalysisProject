@@ -23,3 +23,8 @@ Data Analysis Libraries: Pandas, NumPy
 Data Visualization Tools: Matplotlib, Seaborn
 
 Interactive Tool Development: DeepSea AI
+
+# Link to the Project
+
+https://deepsea.whitewhale.ai/public/dashboards/629bcb2d2cc0aa608f3e8c95
+
