@@ -17,6 +17,9 @@ To create an interactive tool using DeepSea AI that allows users to generate spe
 
 ## Technologies Used
 Programming Language: Python
+
 Data Analysis Libraries: Pandas, NumPy
+
 Data Visualization Tools: Matplotlib, Seaborn
+
 Interactive Tool Development: DeepSea AI
