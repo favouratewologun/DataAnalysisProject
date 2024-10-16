@@ -1,4 +1,4 @@
-# Calgary Housing Data Analysis Project
+# Calgary Housing Data Analysis Project in Python
 ## Overview
 
 The Calgary Housing Data Analysis Project is an analytical initiative aimed at evaluating key metrics of housing data in Calgary. The project analyzes various property features and their proximity to essential amenities, providing insights that can aid potential buyers or investors in making informed decisions.
